@@ -2,6 +2,7 @@
 ##概要
 Unityで、複数PC、複数画面間をオブジェクトを同期させて表示させる作品を次に作りそうなので、Unity5.1から、新しくなった、UnityのNetworking機能、UNETについて調べて、実装してみました。  
 メモとかです。そんなに、まとまっていません。
+<iframe width="420" height="315" src="https://www.youtube.com/embed/--fKAwlUUAM" frameborder="0" allowfullscreen></iframe>
 ##ポイント
 - `using UnityEngine.Networking;`
 - ネットワークで同期させる変数、モノは、全てServer側で動かす
