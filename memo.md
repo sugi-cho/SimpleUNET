@@ -38,7 +38,7 @@ public class MyNetManager:NetworkManager{
 	public override void OnClientConnect(NetworkConnection conn){
 		//.....
 	}
-
+}
 ```
 
 ##Link
